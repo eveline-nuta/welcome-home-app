@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name":"Welcome Home",
+    "description":"This is an initiative to help anyone in need of a home to find a place where they can belong and seek comfort on those cold, rainy nights.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a software developer that enjoys to continuously search for creative ways of using software to make the world a better place, in this case - a place where anyone in need can search for a shelter.",
+    "workbio":"Primarily, I work as a .NET Software Consultant on a project for the Norwegian Government focusing on embassy and governmental platforms in addition to their internal services.",
+    "aboutplatform":"What does it do? It uses the Norway Open Data and searches within a list of GEOJsons of public shelters to find the nearest public home you can go to, based on your current location." ,
+    "aboutopendata":" This cool initiative is made possible by Norway's official government open data catalogue data.norge.no, which offers a wide variety of datasets, concepts, APIs and information models. The content comes from both private and public companies in Norway.",
+    "contactmessage":"Have a project for me? Contact me by email. (the contact form is not yet configured)",
+    "email": "debbie.evelyn@gmail.com",
+    "fullname": "Eveline Debora Nuta",
+    "phone": "555-555-5555",
+    "github":"https://github.com/debbienuta/welcome-home-app",
+    "project":"https://data.norge.no/datasets/f40a71e7-a59d-4955-96e8-df30f2a5905c",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Sibiu, Romania",
+      "zip": "550155"
+    },
+    "website": "https://www.linkedin.com/in/eveline-debora-nuta-779144180/",
+    "resumedownload":"https://drive.google.com/file/d/1mbai2ulHVJED1xxnyL_XooU7mkGXZwCk/view",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/eveline-debora-nuta-779144180/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/eveline-nuta/shelter-finder",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Vienna",
+        "degree":"Computer Science and Business BSc.",
+        "graduated":"April 2019",
+        "description":"Completed my final year abroad at the University of Oslo, where I wrote my thesis on the topic of microservice-based architectures compared to monolithic ones and their comparative analysis."
+      },
+      {
+        "school":"National College 'Samuel von Brukenthal'",
+        "degree":"Natural Sciences Baccalaureate",
+        "graduated":"June 2015",
+        "description":"Completed studies focusing on Mathematics, Physics, Chemistry and Biology in the German language."
+      }
+    ],
+    "work":[
+      {
+        "company":"Making Waves",
+        "title":"Software Consultant for Norwegian Government ",
+        "years":"August 2019 - Present",
+        "description":"Backend .NET developer for governmental platforms such as 'government.no' and 'norway.no', in addition to other internal services and platforms for the government."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ASP.NET/C#",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"EpiServer CMS",
+        "level":"70%"
+      },
+      {
+        "name":"MSSQL",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"Agile Development",
+        "level":"85%"
+      }
+    ]
+  }
+}
